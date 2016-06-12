@@ -1,0 +1,89 @@
+.btn-circle{
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.42;
+  border-radius: 15px;
+  
+}
+
+.table th,td{
+	text-align: center;
+}
+
+.page-header{
+	border-style: none;
+}
+
+.filter {
+	margin-top: 40px;
+}
+
+.filter h3{
+	text-align: center;
+}
+
+.searchBtn{
+	float: right;
+}
+
+.manualImg{
+	float: left;
+}
+
+/* jezici */
+
+.languages{
+	float: right;
+	width: 50px;
+	margin-top: 4px;
+}
+
+.language_img{
+	width: 20px;
+	height: 10px;
+}
+
+/* Prijava i reg. */
+.registers{
+	float: right;
+	width: 234px;
+	display: inline;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.registers a, p{
+	color: #9d9d9d;
+	padding: 10px 15px;
+	line-height: 20px;
+	margin: 0px;
+	display: inline-block;
+}
+
+.registers a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.hello_user{
+}
+
+.clear-hr{
+	overflow: hidden;
+	clear: both;
+}
+
+.previous{
+	margin-right: 10px;
+}
+
+.pagination_div{
+	text-align: center;
+}
+
+.modal-body p{
+	color: black;
+}
